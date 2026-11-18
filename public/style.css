@@ -1,7 +1,22 @@
 body {
   font-family: sans-serif;
   color: #666;
-  background-color: #f1f1f1;
+  background-color: #238B23;
   font-size: x-large;
   margin: 1em;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0.5em;
+}
+
+nav {
+  background-color: #90BC8F;
 }
